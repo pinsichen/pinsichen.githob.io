@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.cover{
+	/* The image used */
+    background-image: url("品希的秘密資料(請勿偷看)/程式設計 電腦課/picture/designbig.jpg");
+
+    /* Full height */
+    height: 91%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg{
+	background-color: black
+}
+.word {
+    font-family: 'Electrolize';
+}
+.hello{
+	font-size: 15px;
+}
+.beige{
+	color: #704214;
+	font-weight: bold;
+}
+
+.carousel-inner > .carousel-item > img{
+	margin: 0 auto;
+}
+.size{
+	width:  ;
+	height:  ;
+}
